@@ -7,6 +7,7 @@ import CreateWord from "./component/CreateWord";
 import CreateDay from "./component/CreateDay";
 
 /* main */
+/* test */
 
 function App() {
   return (
