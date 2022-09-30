@@ -5,7 +5,8 @@ import { BrowserRouter, Route, Switch } from "react-router-dom";
 import EmptyPage from "./component/EmptyPage";
 import CreateWord from "./component/CreateWord";
 import CreateDay from "./component/CreateDay";
- 
+
+
 function App() {
   return (
     <BrowserRouter>
