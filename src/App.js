@@ -6,7 +6,10 @@ import EmptyPage from "./component/EmptyPage";
 import CreateWord from "./component/CreateWord";
 import CreateDay from "./component/CreateDay";
 
+<<<<<<< HEAD
 /* main */
+=======
+>>>>>>> f7772e77eba3db2ac52d2a163d84f38e3fa15fb7
 
 function App() {
   return (
